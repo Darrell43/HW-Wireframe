@@ -1,0 +1,130 @@
+body {
+     height: 1000px;
+     background-color: gray;
+     border:25px solid black;
+    }
+        
+            
+            #img { 
+                border:25px solid black;
+                width: 10%;
+                position: relative;
+                margin: 50px;
+                float: left;
+                clear: left;
+            }
+        
+            .bio {
+                border: 25px solid black;
+                padding: 15px;
+                float: left;
+                position: relative;
+                top: 50px;
+                left: 20px;
+                clear: right;
+            }
+            
+            .objective {
+                
+                border: 25px solid black;
+                padding: 15px;
+                float: right;
+                width: 400px;
+                position: relative;
+                right: 625px;
+                top: 50px;
+                clear: none;
+                
+            }
+            
+            .education {
+                
+                border: 25px solid black;
+                padding: 26px;
+                float: right;
+                width: 400px;
+                position: relative;
+                right: -425px;
+                top: 50px;
+    
+            }
+            
+            .experience {
+                
+                float: left;
+                width: 400px;
+                position: relative;
+                background-color:white;
+                clear: both;
+                padding-left: 55px;
+            }
+            
+            .experience1 {
+                
+                float: left;
+                width: 400px;
+                position: relative;
+                background-color:white;
+                clear: right;
+                padding-left: 55px;
+                right: -100px;
+            }
+            
+            .experience2 {
+                
+                float: left;
+                width: 400px;
+                position: relative;
+                background-color:white;
+                clear: right;
+                padding-left: 55px;
+                right: -200px;
+            }
+            
+            .experience3 {
+                
+                float: left;
+                width: 400px;
+                position: relative;
+                background-color:white;
+                clear: both;
+                padding-left: 55px;
+            }
+            
+            .experience4 {
+                
+                float: left;
+                width: 400px;
+                position: relative;
+                background-color:white;
+                clear: right;
+                padding-left: 55px;
+                right: -100px;
+            }
+        
+            .skills {
+                
+                float: left;
+                width: 400px;
+                position: relative;
+                background-color:white;
+                clear: both;
+                padding: 55px 55px 55px 55px;
+            }
+            
+            .references {
+                
+                float: left;
+                width: 400px;
+                position: relative;
+                background-color:white;
+                clear: right;
+                padding: 55px;
+                right: -40px;
+            }
+            
+            .skills {
+                
+                
+            }
+        
